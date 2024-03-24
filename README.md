@@ -5,4 +5,4 @@
 ### <p>Affiliations:</p>
 #### <p><sup>1</sup>Department of Biological Sciences, University of Alabama, 300 Hackberry Lane, Box 870344, Tuscaloosa, AL 35487</p> <p><sup>2</sup>Department of Ecology and Evolutionary Biology, University of California, Irvine, Irvine, CA, United States</p> <p><sup>3</sup>Brevard County EEL Program, Melbourne, FL, United States</p> <p><sup>4</sup>Department of Biology, New York University, New York, NY, United States</p>
 
-### Here, we present the code to run the analysis in R. The CMS output files are too big for both this repository and the associated figshare repository(). However, scripts for CMS are located within the scripts folder. The figshare repository holds the R data file another copy of the microsatellite csv file. 
+### Here, we present the code to run the analysis in R. The CMS output files are too big for both this repository and the associated figshare repository(https://figshare.com/s/200b01482fdbb5597ef5). However, scripts for CMS are located within the scripts folder. The figshare repository holds the R data file another copy of the microsatellite csv file. 
